@@ -46,6 +46,7 @@ dendrite-segmentation-yolo/
 ├── README.md
 └── requirements.txt
 
+---
 
 - notebooks/ - notebooks + data folders (used with relative paths)  
 - outputs/ - masks, overlays, skeletons, metrics  
