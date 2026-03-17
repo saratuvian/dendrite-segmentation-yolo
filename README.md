@@ -36,17 +36,16 @@ https://app.roboflow.com/saras-workspace-fd6vg/sem_dendrite_segmentation_v2/3
 
 ## Project Structure
 
-
+```
 dendrite-segmentation-yolo/
-
+│
 ├── notebooks/
 ├── outputs/
 ├── models/
 ├── report/
 ├── README.md
 └── requirements.txt
-
----
+```
 
 - notebooks/ - notebooks + data folders (used with relative paths)  
 - outputs/ - masks, overlays, skeletons, metrics  
