@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-image
+scipy
+Pillow
+jupyter

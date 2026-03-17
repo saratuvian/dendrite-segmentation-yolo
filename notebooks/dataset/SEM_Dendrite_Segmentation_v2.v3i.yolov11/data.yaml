@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['dendrites']
+
+roboflow:
+  workspace: saras-workspace-fd6vg
+  project: sem_dendrite_segmentation_v2
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/saras-workspace-fd6vg/sem_dendrite_segmentation_v2/dataset/3
